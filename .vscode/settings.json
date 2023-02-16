@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "editor.fontWeight": "normal",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "[python]":{
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}
